@@ -1,0 +1,16 @@
+{
+  "name": "harvest",
+  "version": "0.0.1",
+  "description": "Harvest your gains.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Paul Gibler",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "coinbase": "^2.0.7",
+    "pdffiller": "0.0.10"
+  }
+}

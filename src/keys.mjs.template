@@ -1,0 +1,26 @@
+module.exports = {
+  /*
+  Requires the following permissions:
+  wallet:accounts:read wallet:addresses:read wallet:checkouts:read wallet:deposits:read wallet:orders:read wallet:transactions:read wallet:withdrawals:read
+  */
+  coinbase: {
+    key: '',
+    secret: ''
+  },
+  gdax: {
+    key: '',
+    secret: ''
+  },
+  bittrex: {
+    key: '',
+    secret: ''
+  },
+  binance: {
+    key: '',
+    secret: ''
+  },
+  hitbtc: {
+    key: '',
+    secret: ''
+  }
+};
